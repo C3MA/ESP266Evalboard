@@ -1,6 +1,6 @@
 # Base System
 
-The raspberry will open a access point.
+The raspberry will open an access point.
 
 ## Hardware
 Prequirements are :
