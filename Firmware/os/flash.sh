@@ -18,7 +18,7 @@ if [ ! -c /dev/$DEVICE ]; then
 fi
 
 if [ ! -f esptool.py ]; then
- echo "Cannot found the required tool:"
+ echo "Cannot find the required tool:"
  echo "esptool.py"
  exit 1
 fi
